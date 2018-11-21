@@ -1,3 +1,3 @@
 Product{
-
+    private int id;
 }
